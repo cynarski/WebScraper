@@ -1,0 +1,6 @@
+{
+    "Brand": ["//h2[@class='sc-guDLey sc-jPpdYo kbBsIA dloLns']", null],
+    "Name": ["//h3[@class='sc-dmyCSP sc-ftxyOh eDlssm icLilU']", null],
+    "Price": ["//span[@data-testid='price-component']", null],
+    "Image": ["//img[@class='sc-iKOmoZ gTqEqC']", "src"]
+}
